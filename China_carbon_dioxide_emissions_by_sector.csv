@@ -1,0 +1,85 @@
+region,Year,variable,value
+China,1990,Energy,1679608.4761
+China,1991,Energy,1801117.6713
+China,1992,Energy,1922209.7607
+China,1993,Energy,2105100.8626
+China,1994,Energy,2269401.2364
+China,1995,Energy,2493833.9901
+China,1996,Energy,2651332.9541
+China,1997,Energy,2650314.4884
+China,1998,Energy,2756942.4061
+China,1999,Energy,2639824.3045
+China,2000,Energy,2636137.098
+China,2001,Energy,2672569.751
+China,2002,Energy,2885167.14
+China,2003,Energy,3382388.129
+China,2004,Energy,4034462.132
+China,2005,Energy,4492751.104
+China,2006,Energy,5010862.0872
+China,2007,Energy,5400215.0761
+China,2008,Energy,6096040.0757
+China,2009,Energy,6406183.366
+China,2010,Energy,6711444.0564
+China,1990,Transport,142513.1106
+China,1991,Transport,154576.1093
+China,1992,Transport,166071.4531
+China,1993,Transport,185981.6442
+China,1994,Transport,177756.318
+China,1995,Transport,189630.8629
+China,1996,Transport,196324.7918
+China,1997,Transport,216008.6906
+China,1998,Transport,239932.9556
+China,1999,Transport,257479.4651
+China,2000,Transport,266316.33
+China,2001,Transport,268932.69
+China,2002,Transport,280068.25
+China,2003,Transport,311300.07
+China,2004,Transport,346556.52
+China,2005,Transport,378617.71
+China,2006,Transport,412983.07
+China,2007,Transport,452412.43
+China,2008,Transport,453532
+China,2009,Transport,471963.13
+China,2010,Transport,516919.271
+China,1990,Industry,268230.9616
+China,1991,Industry,288407.1997
+China,1992,Industry,324968.3672
+China,1993,Industry,359500.2488
+China,1994,Industry,392926.2601
+China,1995,Industry,467904.9365
+China,1996,Industry,401775.5134
+China,1997,Industry,416101.6185
+China,1998,Industry,421159.9275
+China,1999,Industry,439764.5967
+China,2000,Industry,451493.8737
+China,2001,Industry,480073.8697
+China,2002,Industry,514265.2857
+China,2003,Industry,581077.2817
+China,2004,Industry,649332.3877
+China,2005,Industry,712218.1937
+China,2006,Industry,803262.1897
+China,2007,Industry,879100.1957
+China,2008,Industry,908963.8907
+China,2009,Industry,1037361.3967
+China,2010,Industry,1147126.7927
+China,1990,Residential & commercial,499995.2275
+China,1991,Residential & commercial,499581.4937
+China,1992,Residential & commercial,468012.0357
+China,1993,Residential & commercial,481296.942
+China,1994,Residential & commercial,465403.8981
+China,1995,Residential & commercial,489230.8098
+China,1996,Residential & commercial,501690.1282
+China,1997,Residential & commercial,447947.614
+China,1998,Residential & commercial,390939.7371
+China,1999,Residential & commercial,398730.1168
+China,2000,Residential & commercial,392988
+China,2001,Residential & commercial,397505
+China,2002,Residential & commercial,405614.2
+China,2003,Residential & commercial,426452.9
+China,2004,Residential & commercial,461637.4
+China,2005,Residential & commercial,486579.4
+China,2006,Residential & commercial,495618.3
+China,2007,Residential & commercial,500961
+China,2008,Residential & commercial,532203
+China,2009,Residential & commercial,543946
+China,2010,Residential & commercial,574784
